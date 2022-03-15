@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=kwon%20kiwon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=kwon%20kiwon&fontSize=90&animation =https://user-images.githubusercontent.com/66999675/134764964-3684deba-8a14-4f13-b65e-d33e6d3c8784.mp4)
   
 #KWON KI WON 😋
 
