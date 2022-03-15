@@ -1,8 +1,8 @@
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=141321&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Kiwon.😋+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=141321&size=40&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Kiwon.😋+%E3%80%80%E3%80%80)](https://github.com/funnykyeon)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffunnykyeon%2Fhit-counter&count_bg=%23D83B7C&title_bg=%23151321&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffunnykyeon%2Fhit-counter&count_bg=%23D83B7C&title_bg=%23151321&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/funnykyeon)
 
 ![funnykyeon GitHub stats](https://github-readme-stats.vercel.app/api?username=funnykyeon&show_icons=true&theme=radical)
 [![funnykyeon GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=funnykyeon&langs_count=10&layout=compact&theme=radical)](https://github.com/funnykyeon)<br/>
