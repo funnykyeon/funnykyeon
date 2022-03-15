@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=seong%20ryool&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=kwon%20kiwon&fontSize=90)
   
 #KWON KI WON 😋
 
