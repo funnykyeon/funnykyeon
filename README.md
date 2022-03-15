@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:141321&height=300&section=header&text=kwon%20kiwon&fontSize=90)
-  
-#KWON KI WON 😋
+
+##KWON KI WON 😋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffunnykyeon%2Fhit-counter&count_bg=%23D83B7C&title_bg=%23151321&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
