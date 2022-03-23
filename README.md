@@ -1,6 +1,6 @@
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=141321&size=40&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Kiwon.😋+%E3%80%80%E3%80%80)](https://github.com/funnykyeon)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=d73a7d&size=40&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Kiwon.😋+%E3%80%80%E3%80%80)](https://github.com/funnykyeon)
 
 ![funnykyeon GitHub stats](https://github-readme-stats.vercel.app/api?username=funnykyeon&show_icons=true&theme=radical)
 [![funnykyeon GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=funnykyeon&langs_count=10&layout=compact&theme=radical)](https://github.com/funnykyeon)<br/>
