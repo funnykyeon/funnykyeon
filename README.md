@@ -4,8 +4,9 @@
 
 ![funnykyeon GitHub stats](https://github-readme-stats.vercel.app/api?username=funnykyeon&show_icons=true&theme=radical)
 [![funnykyeon GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=funnykyeon&langs_count=10&layout=compact&theme=radical)](https://github.com/funnykyeon)<br/>
+<!-- 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=funnykyeon)](https://solved.ac/funnykyeon)
-
+-->
 
 
 ### 💪Skills
@@ -24,7 +25,8 @@
  
 ### 📮Contacts
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@funnykyeon/)](https://velog.io/@funnykyeon/)
+<!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@funnykyeon/)](https://velog.io/@funnykyeon/)
+-->
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:funnykyeon@naver.com)](mailto:funnykyeon@naver.com)
 
 
